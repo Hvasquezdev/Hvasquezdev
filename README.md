@@ -20,7 +20,8 @@ Hi 👋 I'm Hector Vasquez a Front End developer working with Vue.js / Nuxt.js m
 - Personal site: https://www.hectorvasquez.me/
 
 ## I’m currently 🤔
-- learning React.Js 📚
+- Learning React.Js 📚
+- Testing Vue 3 by making fun things 🧪
 
 <!--
 **Hvasquezdev/Hvasquezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
