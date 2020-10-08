@@ -21,8 +21,8 @@ Hi 👋 I'm Hector Vasquez a Front End developer working with React.Js / Vue.js 
 - Personal site: https://www.hectorvasquez.me/
 
 ## I’m currently 🤔
-- Learning React.Js 📚
-- Testing Vue 3 by making fun things 🧪
+- Learning Next.Js 📚
+- Testing new fun things related to Front-End 🧪
 
 ![Hector's github stats](https://github-readme-stats.vercel.app/api?username=hvasquezdev&count_private=true&show_icons=true&theme=gruvbox)
 
