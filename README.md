@@ -26,7 +26,7 @@ Hi 👋 I'm Hector Vasquez a Front End developer working with React.Js / Vue.js 
 
 ![Hector's github stats](https://github-readme-stats.vercel.app/api?username=hvasquezdev&count_private=true&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvasquezdev&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvasquezdev&layout=compact)
 
 <!--
 **Hvasquezdev/Hvasquezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
