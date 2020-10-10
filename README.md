@@ -20,7 +20,8 @@ My work is entirely based around web development focused in Front End with moder
 
 ## Get in touch ✉
 - Twitter: https://twitter.com/HecTorVasquez97
-- Personal site: https://www.hectorvasquez.me/
+- Portfolio: https://www.hectorvasquez.me/
+- LinkedIn: https://www.linkedin.com/in/hector-vasquez-dev/
 
 ## I’m currently 🤔
 - Learning Next.Js 📚
