@@ -1,7 +1,7 @@
 # 👋 Hector Vasquez Front-End developer #Vuejs
-Hi 👋 I'm Hector Vasquez a Front End developer working with React.Js / Vue.js / Nuxt.js making some cool web apps and a few things with Threejs. Previously worked as a freelance front end for some startups. My work is entirely based around web development with modern JavaScript and Vue.Js, writing code daily in personal and professional projects and learning new things every day to improve my skills.
+👋 I'm Hector Vasquez, passionate and innovative Front end developer with about 2 years of experience maintaining, building and delivering immersive and engaging user experience, mobile first, accessibility and SEO optimization through Front end web development. Proactive developer learning new things and improving current skills daily. Proeficent with the most modern technologies like JavaScript ES6+ / Vue.Js / Nuxt.Js / React.Js
 
-![Hector's github stats](https://github-readme-stats.vercel.app/api?username=hvasquezdev&count_private=true&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvasquezdev&layout=compact)
+My work is entirely based around web development focused in Front End with modern JavaScript.
 
 ## I speak 💬
 - Spanish (Native)
@@ -25,6 +25,9 @@ Hi 👋 I'm Hector Vasquez a Front End developer working with React.Js / Vue.js 
 ## I’m currently 🤔
 - Learning Next.Js 📚
 - Testing new fun things related to Front-End 🧪
+
+## Github Stats
+![Hector's github stats](https://github-readme-stats.vercel.app/api?username=hvasquezdev&count_private=true&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvasquezdev&layout=compact)
 
 <!--
 **Hvasquezdev/Hvasquezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
