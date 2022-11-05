@@ -28,7 +28,11 @@ My work is entirely based around web development focused in Front End with moder
 - Testing new fun things related to Front-End 🧪
 
 ## Github Stats
-![Hector's github stats](https://github-readme-stats.vercel.app/api?username=hvasquezdev&count_private=true&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvasquezdev&layout=compact)
+![Hector's github stats](https://github-readme-stats.vercel.app/api?username=hvasquezdev&count_private=true&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvasquezdev&layout=compact)
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hvasquezdev&theme=default)
 
 <!--
 **Hvasquezdev/Hvasquezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
