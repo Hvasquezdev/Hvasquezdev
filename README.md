@@ -1,4 +1,4 @@
-# 👋 Hector Vasquez Front-End developer #Vuejs
+# 👋 Hector Vasquez Front-End developer
 👋 I'm Hector Vasquez, Passionate and innovative Front end developer with about 4 years of professional experience maintaining, building and delivering immersive and engaging user experience, mobile first, accessibility and SEO optimization through Front end web development. Proactive developer learning new things and improving current skills daily. Proeficent with the most modern technologies like modern JavaScript ES6 + / Vue.Js / Nuxt.js / React.js also knowledge in S.O.L.I.D. principles and software architecture patterns to keep a good organization and maintainability in the front-end code.
 
 My work is entirely based around web development focused in Front End with modern JavaScript.
