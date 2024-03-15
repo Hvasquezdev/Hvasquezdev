@@ -33,6 +33,7 @@ I consider myself a quick learner and love playing around 3D web with Three.js, 
 
 ## Github Stats
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hvasquezdev&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvasquezdev&layout=compact)
 
 <!--
 **Hvasquezdev/Hvasquezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
