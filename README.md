@@ -1,7 +1,9 @@
 # 👋 Hector Vasquez Front-End developer
-👋 I'm Hector Vasquez, Passionate and innovative Front end developer with about 4 years of professional experience maintaining, building and delivering immersive and engaging user experience, mobile first, accessibility and SEO optimization through Front end web development. Proactive developer learning new things and improving current skills daily. Proeficent with the most modern technologies like modern JavaScript ES6 + / Vue.Js / Nuxt.js / React.js also knowledge in S.O.L.I.D. principles and software architecture patterns to keep a good organization and maintainability in the front-end code.
+👋 I'm Hector Vasquez. I'm a Software developer | Front-End with modern JavaScript with about 5 years of experience working with 𝐘𝐂 startups.
 
-My work is entirely based around web development focused in Front End with modern JavaScript.
+Proactive developer learning new things and improving current skills daily. Proeficent with the most modern technologies like modern JavaScript-Typescript / Vue.Js / React.js also knowledge in S.O.L.I.D. principles and software architecture patterns to keep a good organization and maintainability in the front-end code.
+
+I consider myself a quick learner and love playing around 3D web with Three.js, still learning and playing a lot with it.
 
 ## I speak 💬
 - Spanish (Native)
@@ -11,12 +13,14 @@ My work is entirely based around web development focused in Front End with moder
 - HTML5
 - CSS3
 - JavaScript
+- Typescript
 - Vue.js
 - Nuxt.js
 - React.js
 - Three.js
 - Tailwind.Css
 - Node.js
+- GraphQL
 
 ## Get in touch ✉
 - Twitter: https://twitter.com/HecTorVasquez97
