@@ -1,13 +1,13 @@
 # 👋 Hector Vasquez Front-End developer
-👋 I'm Hector Vasquez. I'm a Software developer | Front-End with modern JavaScript with about 5 years of experience working with 𝐘𝐂 startups.
+👋 I'm Hector Vasquez. I'm a Senior Frontend Engineer with about 6 years of experience, passionate about crafting high-performance, accessible, and SEOfriendly user experiences.
 
-Proactive developer learning new things and improving current skills daily. Proeficent with the most modern technologies like modern JavaScript-Typescript / Vue.Js / React.js also knowledge in S.O.L.I.D. principles and software architecture patterns to keep a good organization and maintainability in the front-end code.
+Skilled in modern Frontend technologies and proficient in S.O.L.I.D. principles and software architecture patterns, ensuring scalable and maintainable code. Proven track record leading and mentoring teams, delivering impactful results in fast-paced environments, and contributing proactively to product discovery and innovation.
 
 I consider myself a quick learner and love playing around 3D web with Three.js, still learning and playing a lot with it.
 
 ## I speak 💬
 - Spanish (Native)
-- English (Intermediate - learning)
+- English (Intermediate)
 
 ## My skills 🎯
 - HTML5
@@ -17,6 +17,7 @@ I consider myself a quick learner and love playing around 3D web with Three.js, 
 - Vue.js
 - Nuxt.js
 - React.js
+- React Native
 - Three.js
 - Tailwind.Css
 - Node.js
@@ -28,8 +29,9 @@ I consider myself a quick learner and love playing around 3D web with Three.js, 
 - LinkedIn: https://www.linkedin.com/in/hector-vasquez-dev/
 
 ## I’m currently 🤔
-- Learning UI design and improving Three.js skills 📚
-- Testing new fun things related to Front-End 🧪
+- Learning and practicing UI/UX design 🎨
+- Learning and Testing new fun things related to Front-End 🧪
+- Playing tennis 🎾
 
 ## Github Stats
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hvasquezdev&theme=default)
