@@ -10,18 +10,8 @@ I consider myself a quick learner and love playing around 3D web with Three.js, 
 - English (Intermediate)
 
 ## My skills 🎯
-- HTML5
-- CSS3
-- JavaScript
-- Typescript
-- Vue.js
-- Nuxt.js
-- React.js
-- React Native
-- Three.js
-- Tailwind.Css
-- Node.js
-- GraphQL
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,kotlin,threejs,figma,graphql,nodejs)](https://skillicons.dev)
+
 
 ## Get in touch ✉
 - Twitter: https://twitter.com/HecTorVasquez97
