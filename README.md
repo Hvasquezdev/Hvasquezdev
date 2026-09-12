@@ -67,6 +67,7 @@ performance, accessibility, clear architecture, and attention to detail.
 
 <p>
   <img src="https://img.shields.io/badge/Claude-F0B798?style=flat-square" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-7AA2F7?style=flat-square" alt="Codex" />
   <img src="https://img.shields.io/badge/Agent_Orchestration-A78BFA?style=flat-square" alt="Agent orchestration" />
   <img src="https://img.shields.io/badge/Spec--Driven_Development-38BDF8?style=flat-square" alt="Spec-Driven Development" />
 </p>
